@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/close_button.png</file>
+        <file>images/myir/mxde_background1.png</file>
+        <file>icon/redclose.png</file>
+        <file>icon/redselct.jpg</file>
+    </qresource>
+</RCC>
